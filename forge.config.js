@@ -68,7 +68,8 @@ module.exports = {
           owner: 'magicat8',
           name: 'qrcode'
         },
-        prerelease: true
+        prerelease: false,
+        draft: false
       }
     }
   ],
