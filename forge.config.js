@@ -66,7 +66,7 @@ module.exports = {
       config: {
         repository: {
           owner: 'magicat8',
-          name: 'awesome-thing'
+          name: 'qrcode'
         },
         prerelease: true
       }
